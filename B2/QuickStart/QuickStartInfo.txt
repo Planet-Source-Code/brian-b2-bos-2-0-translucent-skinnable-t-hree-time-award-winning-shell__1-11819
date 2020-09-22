@@ -1,0 +1,13 @@
+Use QuickStart to access frequentlly used programs,
+such as Internet Explorer or Outlook.
+
+To activate a program in the QuickStart
+tray, just click it.
+
+To add a program to the QuickStart tray, just drag its icon to the tray.
+
+To delete an item, right click its icon and select "delete"
+
+You can also add programs to your Quickstart tray by
+right clicking the tray and selecting "Open QuickStart Folder".
+Then drag the program to the folder.
