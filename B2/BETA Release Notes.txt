@@ -1,0 +1,21 @@
+The B2 beta release will only run on Windows 98 / Windows ME (not tested) / Windows 2000. 
+Some features have not yet been implemented:
+What works:
+* The taskbar
+* The desktop menu
+* The Start > Programs menu
+* The Start > Documents menu
+* The Start > Favorites menu
+* Start > Run
+* Start > Settings (partially)
+* Start > Shut Down menu
+* Listing of programs (with icons)
+* Switching programs
+* Drag and drop in the "app tray" (partially)
+* Docking, undocking, and resizing'
+* The B2Mac Skin (partially)
+* Sounds
+What doesn't:
+* Lots of settings
+
+Look for the full version on October 1.
